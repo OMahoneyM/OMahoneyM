@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MitoGenome Loci Extractor](https://github.com/OMahoneyM/MitoGenome_Loci_Extraction)
 
-- 👨‍💻 See my favorite projects on my [Portfolio](omahoneym.netlify.app)
+- 👨‍💻 See my favorite projects on my [Portfolio](https://omahoneym.netlify.app/)
 
 - ⚡ Fun fact **I've been diving in the Bering Sea**
 
