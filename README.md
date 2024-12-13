@@ -12,7 +12,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omahoneym&show_icons=true&locale=en&layout=compact&theme=dark" alt="omahoneym top language stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omahoneym&" alt="omahoneym" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omahoneym&theme=transparent" alt="omahoneym" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
